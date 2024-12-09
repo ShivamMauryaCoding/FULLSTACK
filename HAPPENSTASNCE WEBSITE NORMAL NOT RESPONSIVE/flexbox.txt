@@ -1,0 +1,10 @@
+display : flex
+flex-wrap : wrap to down element
+justify content -- horizontall
+align-items -- coloumn to use align item center, start, end 
+align-content -- coloumn to use space betwwn coloumn content, space-between, space-around
+flex-wrap - 
+flex-direction
+
+flex froggy. game 
+remix
